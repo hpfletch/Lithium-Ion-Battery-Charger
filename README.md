@@ -6,5 +6,5 @@ This simple device charges single cell lithium ion batterys for use with my batt
 
 Power is supplied to the device from any 5V USB cell phone charghing brick USB power connection on a personal computer. Currently a small form factor PCB is being manufactured and assembled. The board features primarly SMD components to reduce the overall size. 
 
-![alt text](https://github.com/hpfletch/Images/blob/master/Annotated%20PCB%20layout.png)
+![alt text](https://github.com/hpfletch/Images/blob/master/Annotated%20PCB%20layout (2).png)
 
