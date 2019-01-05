@@ -6,12 +6,12 @@ This simple device charges single cell lithium ion batterys for use with battery
 
 Power is supplied to the device from any 5V USB cell phone charging brick or USB power port. I have designed and tested a small form factor PCB which is assembled with SMD components to reduce the overall footprint. A simple switching circuit allows the battery to power a 3.3V load after charging is complete. The following two images displays the designs iterations.
 
-#Version 1
+### Version 1
 
 ![alt text](https://github.com/hpfletch/Images/blob/master/V2%20Drawing.png)
 
 
-#Version 2
+### Version 2
 
 ![alt text](https://github.com/hpfletch/Images/blob/master/V3%20Drawing.png)
 
