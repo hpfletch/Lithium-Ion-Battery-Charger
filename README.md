@@ -21,4 +21,5 @@ Testing the device shows it can sucessfully charge a single cell lithium ion bat
   3. Constant Voltage 
  
  The following image shows a test device switching the status ouputs of the MCP73833, indicating the charge status.
-![alt text](https://github.com/hpfletch/Images/blob/master/V2%20Drawing.png)
+ 
+![alt text](https://github.com/hpfletch/Images/blob/master/modes.png)
